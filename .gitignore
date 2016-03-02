@@ -1,0 +1,14 @@
+a.out
+x
+
+*.pgm
+*.mp4
+
+*.o
+
+.cproject
+.project
+
+mandelbrotcmd
+mandelbrotcmdarg
+
